@@ -45,3 +45,27 @@
 🔴 Risk: full breakdown structure below all SMAs - no confirmation of a bottom yet, position size should be minimal.
 
 💡 Cashback on every trade → <i><a href="https://fxcash.net/en/?id=homepage">fxcash</a></i>
+===1794858520===forex_expanded
+🔴 <b>EUR/USD</b> -- Short
+📊 <code>1.1010</code> | RSI <code>35.8</code>
+📍 Entry: <code>1.1174</code> → Stop: <code>1.1240</code> → TP: <code>1.0950</code>
+⚖️ R:R = 1:3.4
+💡 <i>Dollar strength drives euro to a one-year low, a pullback to SMA20 offers a short entry toward the 1.0952 focus level.</i>
+⚠️ <i>Price sits at the 52-week floor with RSI softening, so a bounce off 1.10 is a real reversal risk.</i>
+
+🔴 <b>GBP/USD</b> -- Short
+📊 <code>1.3191</code> | RSI <code>38.3</code>
+📍 Entry: <code>1.3361</code> → Stop: <code>1.3435</code> → TP: <code>1.3050</code>
+⚖️ R:R = 1:4.2
+💡 <i>Cable trades below both moving averages on broad USD demand, a retest of SMA20 keeps the path open toward the 1.30 handle.</i>
+⚠️ <i>Pair is close to its 52-week low, so a USD pullback could squeeze shorts quickly.</i>
+
+🟢 <b>USD/JPY</b> -- Long
+📊 <code>159.3890</code> | RSI <code>65.4</code>
+📍 Entry: <code>158.16</code> → Stop: <code>157.30</code> → TP: <code>163.98</code>
+⚖️ R:R = 1:6.8
+💡 <i>Uptrend holds above SMA20 and SMA50 with the Treasury-driven dollar bid, a dip to SMA20 aligns with the move toward the 52-week high.</i>
+⚠️ <i>RSI at 65.4 is stretched and the 160 area has capped rallies before, so size the target realistically.</i>
+
+⚠️ <i>Analysis, not signals. Manage your risk.</i>
+💡 <i>Cashback on every trade →</i> <b><a href="https://fxcash.net/en/?id=homepage">FXCash</a></b>
