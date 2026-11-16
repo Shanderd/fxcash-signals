@@ -21,3 +21,27 @@
 
 ⚠️ Analysis, not signals. Manage your risk.
 💡 Cashback on every trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
+===1794815125===crypto_expanded
+⚠️ <b>Analysis, not signals. Manage your risk.</b>
+
+🟢 <b>BTC/USD</b> -- Long
+📊 <code>64880.79</code> | RSI <code>24.8</code>
+📍 Entry: <code>63000.00</code> → Stop: <code>57747.77</code> → TP: <code>74259.35</code>
+⚖️ R:R = 1:2.1
+💡 <i>RSI deeply oversold near the 62K swing low, a technical bounce toward SMA20 is possible, but the price is below both SMAs so this is only a counter-trend mean-reversion with stop at the 52w low.</i>
+
+🟢 <b>BCH/USD</b> -- Long
+📊 <code>207.73</code> | RSI <code>16.5</code>
+📍 Entry: <code>202.00</code> → Stop: <code>181.24</code> → TP: <code>252.12</code>
+⚖️ R:R = 1:2.4
+💡 <i>RSI 16.5 is extreme oversold just above the 52w low 181.24, a retracement entry offers a pullback toward SMA20.</i>
+🔴 Risk: downtrend below SMA20/SMA50 and persistent ETF outflows can push price straight to the 52w low without any bounce.
+
+🟢 <b>SOL/USD</b> -- Long
+📊 <code>71.15</code> | RSI <code>20.9</code>
+📍 Entry: <code>69.50</code> → Stop: <code>65.00</code> → TP: <code>87.30</code>
+⚖️ R:R = 1:4.0
+💡 <i>RSI 20.9 is the second most oversold in the list, a pullback to 69.50 gives a wide room toward SMA20 87.30.</i>
+🔴 Risk: full breakdown structure below all SMAs - no confirmation of a bottom yet, position size should be minimal.
+
+💡 Cashback on every trade → <i><a href="https://fxcash.net/en/?id=homepage">fxcash</a></i>
