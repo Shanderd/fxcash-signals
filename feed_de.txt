@@ -19,3 +19,21 @@
 
 ⚠️ <i>Analysen, keine Signale. Risikomanagement beachten.</i>
 💡 <i>Cashback bei jedem Trade</i> → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
+===1794860242===crypto_expanded
+⚠️ <b>Marktlage 17.11.2026</b> -- Keine gültigen Setups (Entry-Distanz &gt; 3%)
+
+📉 <i>Breiter Krypto-Crash: alle Top-Coins unter SMA20 und SMA50, RSI überwiegend &lt; 30. Marktkapitalisierung laut News ~330 Mrd. USD in einer Woche verloren.</i>
+
+<b>Warum heute kein Signal:</b> Jedes Retracement-Level liegt zu weit vom aktuellen Preis entfernt.
+
+📏 <code>Watchlist</code> (Distanz zum Entry):
+• <b>Tron</b> -- Short-Watch: SMA20 <code>0.3177</code> = +3,9% (über Limit)
+• <b>Polkadot</b> -- Long-Watch: 52w Tief <code>0.69</code> = −5,4%, RSI <code>17.4</code> (über Limit)
+• <b>XRP</b> -- Long-Watch: 52w Tief <code>0.89</code> = −7,1%, RSI <code>22.5</code> (über Limit)
+
+⚠️ <b>Risiko:</b> RSI-Werte von <code>16.6</code> (BCH) bis <code>29.8</code> (UNI) zeigen extreme Übersverkauft-Situation -- Shorts in diese Schwäche hinein sind gefährlich, Longs ohne gehaltenes Support-Level ebenfalls.
+
+💡 <i>Warten auf Rücksetzer an die nächsten Level oder auf Stabilisierung -- kein FOMO in einen fallenden Markt.</i>
+
+<i>⚠️ Analyse, keine Signale. Risikomanagement beachten.</i>
+💡 Cashback bei jedem Trade → <a href="https://fxcash.net/en/?id=homepage">fxcash.net</a>
