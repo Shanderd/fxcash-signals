@@ -1,0 +1,28 @@
+===1794762006===crypto_expanded
+🟢 <b>Dogecoin</b> -- Long  
+📊 <code>0.0584</code> | RSI <code>21.7</code>  
+📍 Entry: <code>0.0570</code> → Stop: <code>0.0550</code> → TP: <code>0.0800</code>  
+⚖️ R:R = 1:3  
+💡 Entry at 0.0570 is 2.4% below current price - within 3% limit; TP at SMA50 (0.08) gives solid R:R; RSI oversold, price below both SMAs.  
+✅ Valid retracement long setup.
+===1794811374===forex_expanded
+🟢 <b>AUD/USD</b> - Лонг
+📊 <code>0.6761</code> | RSI <code>25.0</code>
+📍 Вход: <code>0.6700</code> → Стоп: <code>0.6600</code> → TP: <code>0.6960</code>
+⚖️ R:R = 1:2.6
+💡 <i>RSI в зоне перепродажи у нижней границы диапазона, откат к 0.6700 даёт вход к SMA20.</i>
+
+🔴 <b>USD/CAD</b> - Шорт
+📊 <code>1.4276</code> | RSI <code>76.9</code>
+📍 Вход: <code>1.4300</code> → Стоп: <code>1.4400</code> → TP: <code>1.4071</code>
+⚖️ R:R = 1:2.3
+💡 <i>RSI перекуплен у 52w максимума, отскок к 1.4300 - шорт к SMA20.</i>
+
+🔴 <b>USD/JPY</b> - Шорт
+📊 <code>159.5640</code> | RSI <code>67.4</code>
+📍 Вход: <code>160.00</code> → Стоп: <code>161.30</code> → TP: <code>157.40</code>
+⚖️ R:R = 1:2.0
+💡 <i>Цена выше обеих SMA у RSI 67, откат к 160.00 - шорт к SMA50.</i>
+
+⚠️ <i>Аналитика, не сигналы. Риск на сделку - не более 1-2% депозита.</i>
+💡 <i>Кешбэк с каждой сделки →</i> <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
