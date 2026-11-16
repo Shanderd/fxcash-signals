@@ -69,3 +69,16 @@
 
 ⚠️ <i>Analysis, not signals. Manage your risk.</i>
 💡 <i>Cashback on every trade →</i> <b><a href="https://fxcash.net/en/?id=homepage">FXCash</a></b>
+===1794860532===crypto_expanded
+⚠️ <b>Market analysis</b> - no valid signals today.
+
+<b>Why:</b> broad crypto capitulation - every coin is below SMA20 and SMA50 with RSI <code>16.6-36.2</code>, but all retracement levels sit too far: nearest resistance is TRX SMA20 <code>0.3177</code> at +4.0% (outside the 3% cap), the rest are +14% to +28% away.
+
+<b>Watch list:</b>
+📊 <code>DOGE 0.0595</code> - retest of 52w low <code>0.06</code> (only +0.8% away), but no lower data level exists for a TP, so R:R cannot be validated.
+📊 <code>TRX 0.3056</code> - short setup only if price bounces into <code>0.3177</code> (SMA20) → stop <code>0.3265</code> (SMA50) → TP <code>0.27</code> (52w low), R:R ≈ 1:5.4, entry currently 4% above price.
+
+💡 <i>Risk: RSI 16-30 across the board means extreme oversold conditions - a sharp rebound can squeeze shorts at any time; wait for the bounce instead of chasing.</i>
+
+⚠️ Analysis, not signals. Manage your risk.
+💡 Cashback on every trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
