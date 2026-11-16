@@ -1,0 +1,23 @@
+===1794815082===forex_expanded
+⚠️ Analysis, not signals. Manage your risk.
+
+🔴 <b>GBP/USD</b> -- Short
+📊 <code>1.3209</code> | RSI <code>39.4</code>
+📍 Entry: <code>1.3350</code> → Stop: <code>1.3425</code> → TP: <code>1.3050</code>
+⚖️ R:R = 1:4.0
+💡 <i>Price below SMA20/SMA50 cluster near 52w low - short on bounce back to 1.3350 resistance; risk of USD momentum fading after 19-month DXY high.</i>
+
+🔴 <b>USD/CAD</b> -- Short
+📊 <code>1.4277</code> | RSI <code>76.9</code>
+📍 Entry: <code>1.4300</code> → Stop: <code>1.4380</code> → TP: <code>1.4083</code>
+⚖️ R:R = 1:2.7
+💡 <i>Overbought RSI at 52w maximum 1.43 - short on retest of that ceiling targeting SMA50; risk of extended USD strength keeping pair pinned at highs.</i>
+
+🟢 <b>USD/JPY</b> -- Long
+📊 <code>159.415</code> | RSI <code>65.7</code>
+📍 Entry: <code>158.17</code> → Stop: <code>157.30</code> → TP: <code>163.98</code>
+⚖️ R:R = 1:6.7
+💡 <i>Uptrend above both SMAs with weak Japan GDP - long on pullback to SMA20 targeting 52w high; risk of intervention headlines if yen slides too fast.</i>
+
+⚠️ Analysis, not signals. Manage your risk.
+💡 Cashback on every trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
