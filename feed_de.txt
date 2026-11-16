@@ -1,0 +1,21 @@
+===1794858496===forex_expanded
+🔴 <b>EUR/USD</b> -- Short
+📊 <code>1.1010</code> | RSI <code>35.8</code>
+📍 Entry: <code>1.1174</code> (SMA20) → Stop: <code>1.1230</code> → TP: <code>1.0952</code>
+⚖️ R:R = 1:4
+💡 <i>Preis unter SMA20/SMA50 an der 52w-Marke, Ziel laut Prognose 1.0952; Risiko: Noten direkt am 52w-Tief, Umkehrgefahr bei USD-Schwäche.</i>
+
+🔴 <b>USD/CAD</b> -- Short
+📊 <code>1.4293</code> | RSI <code>77.7</code>
+📍 Entry: <code>1.4320</code> → Stop: <code>1.4380</code> → TP: <code>1.4083</code> (SMA50)
+⚖️ R:R = 1:4
+💡 <i>RSI überkauft direkt am 52w-Hoch, Rücksetzer zur SMA50 erwartet; Risiko: RSI 77.7 zeigt starken Aufwärtsmomentum, Trend kann weiterlaufen.</i>
+
+🟢 <b>USD/JPY</b> -- Long
+📊 <code>159.3960</code> | RSI <code>65.5</code>
+📍 Entry: <code>158.17</code> (SMA20) → Stop: <code>157.30</code> (SMA50) → TP: <code>163.98</code> (52w MAX)
+⚖️ R:R = 1:7
+💡 <i>Kurs über SMA20 und SMA50 im Aufwärtstrend, Kaufzone an der SMA20; Risiko: Einstieg nur bei echtem Rücksetzer, sonst ungenutzt verpasst.</i>
+
+⚠️ <i>Analysen, keine Signale. Risikomanagement beachten.</i>
+💡 <i>Cashback bei jedem Trade</i> → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
