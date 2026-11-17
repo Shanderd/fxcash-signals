@@ -63,3 +63,28 @@
 
 ⚠️ <i>Keine Anlageberatung. Risikomanagement beachten.</i>
 💡 <i>Cashback bei jedem Trade → <a href="https://fxcash.net/en/?id=homepage">fxcash.net</a></i>
+===1794942385===crypto_expanded
+⚠️ <b>Krypto-Übersicht 18.11.2026</b>
+Alle Top-Coins unter SMA20/SMA50, RSI <code>16-26</code> (extrem übersold) an 52w-Tiefs - mögliche Bounce-Zonen.
+
+🟢 <b>XRP</b> -- Long
+📊 <code>0.9567</code> | RSI <code>18.1</code>
+📍 Entry: <code>0.9400</code> → Stop: <code>0.8900</code> → TP: <code>1.1265</code>
+⚖️ R:R = 1:3.7
+💡 <i>RSI 18.1 mit Preis nur 7 % über 52w-Tief zeigt extreme Übersoldung, Kurs läuft in Richtung SMA20-Korrekturzone. Risiko: Bruch unter 0.89 (52w-Tief) eröffnet freien Absturz bei anhaltendem Abwärtstrend.</i>
+
+🟢 <b>Polkadot</b> -- Long
+📊 <code>0.7228</code> | RSI <code>16.0</code>
+📍 Entry: <code>0.7100</code> → Stop: <code>0.6900</code> → TP: <code>0.8637</code>
+⚖️ R:R = 1:7.7
+💡 <i>RSI 16.0 ist das extremste Übersold-Signal im gesamten Markt, 52w-Tief 0.69 bildet die nächstgelegene Supportzone. Risiko: Enger Stop (nur 2.8 %) bedeutet hohes Stop-out-Risiko bei volatilen Krypto-Bewegungen.</i>
+
+🟢 <b>Cardano</b> -- Long
+📊 <code>0.1516</code> | RSI <code>26.0</code>
+📍 Entry: <code>0.1500</code> → Stop: <code>0.1400</code> → TP: <code>0.1771</code>
+⚖️ R:R = 1:2.7
+💡 <i>Kurs notiert nur 8 % über dem 52w-Tief 0.14 bei RSI 26, SMA20 bei 0.1771 als realistisches Erholungsziel. Risiko: Schwaches Momentum und negatives Gesamtumfeld können den Bounce verhindern und zum Durchbruch unter 0.14 führen.</i>
+
+⚠️ <b>Gesamtrisiko:</b> Starker Abwärtstrend unter beiden SMAs, Binance-Hack und Kapitalabflüsse belasten. Nur Kapital einsetzen, dessen Totalverlust verkraftbar ist. Enges Risikomanagement zwingend.
+
+💡 Cashback bei jedem Trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
