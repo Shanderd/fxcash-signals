@@ -106,3 +106,27 @@
 
 ⚠️ Analysis, not signals. Manage your risk.
 💡 Cashback on every trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
+===1794942485===crypto_expanded
+🟢 <b>BTC/USD</b> -- Long
+📊 <code>63725.12</code> | RSI <code>21.5</code>
+📍 Entry: <code>62000</code> → Stop: <code>57600</code> → TP: <code>73380</code>
+⚖️ R:R = 1:2.6
+💡 <i>Price collapsed 15% below SMA20 with RSI at 21.5, so a deep oversold rebound toward the SMA20 mean is the only clean setup.</i>
+⚠️ <i>Downtrend is violent and 52w low at 57747 is the only real support below.</i>
+
+🟢 <b>XRP/USD</b> -- Long
+📊 <code>0.9574</code> | RSI <code>18.2</code>
+📍 Entry: <code>0.9300</code> → Stop: <code>0.8880</code> → TP: <code>1.1265</code>
+⚖️ R:R = 1:4.7
+💡 <i>RSI 18.2 is extreme exhaustion just above the 52w low 0.89, favoring a snap-back to SMA20 1.1265.</i>
+⚠️ <i>A close below 0.89 wipes out the last yearly support and invalidates the bounce idea.</i>
+
+🟢 <b>LTC/USD</b> -- Long
+📊 <code>44.237</code> | RSI <code>25.6</code>
+📍 Entry: <code>43.00</code> → Stop: <code>39.20</code> → TP: <code>51.13</code>
+⚖️ R:R = 1:2.1
+💡 <i>Sellers pressed price into the 52w low zone 39.39-43 while RSI sits at 25.6, so a pullback entry targets the SMA20 at 51.13.</i>
+⚠️ <i>Both SMAs are steeply above price, so any bounce is counter-trend and can fail fast.</i>
+
+⚠️ Analysis, not signals. Manage your risk.
+💡 Cashback on every trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
