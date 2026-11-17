@@ -37,3 +37,29 @@
 
 <i>⚠️ Analyse, keine Signale. Risikomanagement beachten.</i>
 💡 Cashback bei jedem Trade → <a href="https://fxcash.net/en/?id=homepage">fxcash.net</a>
+===1794941066===forex_expanded
+🔴 <b>USD/CAD</b> -- Short
+📊 <code>1.4286</code> | RSI <code>75.6</code>
+📍 Entry: <code>1.4300</code> → Stop: <code>1.4355</code> → TP: <code>1.4080</code>
+⚖️ R:R = 1:4
+💡 <i>RSI überkauft am 52-Wochen-Maximum 1.43 - Rücksetzer dorthin bietet Verkaufszone.</i>
+⚠️ Risiko: Bruch über 1.4355 ignoriert die Extremzone.
+
+🔴 <b>NZD/USD</b> -- Short
+📊 <code>1.8172</code> | RSI <code>72.2</code>
+📍 Entry: <code>1.8200</code> → Stop: <code>1.8290</code> → TP: <code>1.7796</code>
+⚖️ R:R = 1:5
+💡 <i>RSI überkauft direkt am 52-Wochen-Hoch 1.82 - Retracement nach oben in die Verkaufszone.</i>
+⚠️ Risiko: Kurs über 1.8290 bedeutet Trendfortsetzung.
+
+🟢 <b>EUR/USD</b> -- Long
+📊 <code>1.1016</code> | RSI <code>39.2</code>
+📍 Entry: <code>1.1000</code> → Stop: <code>1.0948</code> → TP: <code>1.1164</code>
+⚖️ R:R = 1:3
+💡 <i>Kurs direkt am 52-Wochen-Minimum 1.10 - Abpraller Richtung SMA20 als Fernziel.</i>
+⚠️ Risiko: News sehen 1.0952 als mögliches Ziel - Stop liegt knapp darunter.
+
+<i>Dollar-Indikator DXY steht am 52-Wochen-Maximum 103.78 mit RSI 64.3 - Umkehrgefahr für USD-Stärke beachten.</i>
+
+⚠️ <i>Keine Anlageberatung. Risikomanagement beachten.</i>
+💡 <i>Cashback bei jedem Trade → <a href="https://fxcash.net/en/?id=homepage">fxcash.net</a></i>
