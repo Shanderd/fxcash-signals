@@ -130,3 +130,24 @@
 
 ⚠️ Analysis, not signals. Manage your risk.
 💡 Cashback on every trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
+===1795026127===forex_expanded
+⚠️ <b>Analysis</b> | 19.11.2026 - Dollar strength regime: DXY at 52w high (RSI 69.3), so fading USD requires care.
+
+🔴 <b>EUR/USD</b> -- Short
+📊 <code>1.0979</code> | RSI <code>33.6</code>
+📍 Entry: <code>1.1151</code> → Stop: <code>1.1205</code> → TP: <code>1.1000</code>
+⚖️ R:R = 1:2.8
+💡 <i>Price is pinned below both SMAs at the 52w low zone, so a rebound into SMA20 (1.57% away) offers a short on the pullback.</i>
+⚠️ <i>Risk: RSI 33.6 is near oversold and price sits on the yearly low - a squeeze higher can trigger before the retest fills.</i>
+
+🔴 <b>GBP/JPY</b> -- Short
+📊 <code>209.506</code> | RSI <code>45.6</code>
+📍 Entry: <code>210.05</code> → Stop: <code>211.35</code> → TP: <code>203.99</code>
+⚖️ R:R = 1:4.7
+💡 <i>Downtrend below SMA20/SMA50 with entry on a bounce into the SMA50-SMA20 cluster, targeting the 52w low.</i>
+⚠️ <i>Risk: stop sits just above SMA20 - a strong yen-cross rebound through 211.22 invalidates the setup.</i>
+
+Context: EUR/USD 1.0952 and GBP/USD 1.3174 are the downside levels in focus per forecasts; USD/JPY, USD/CAD, USD/CHF all print near 52w highs with stretched RSI (63-89), so chasing USD longs here carries reversal risk.
+
+⚠️ Analysis, not signals. Manage your risk.
+💡 Cashback on every trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
