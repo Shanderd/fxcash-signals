@@ -151,3 +151,18 @@ Context: EUR/USD 1.0952 and GBP/USD 1.3174 are the downside levels in focus per 
 
 ⚠️ Analysis, not signals. Manage your risk.
 💡 Cashback on every trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
+===1795080560===forex_expanded
+🟢 <b>USD/JPY</b> -- Long
+📊 <code>159.845</code> | RSI <code>68.2</code>
+📍 Entry: <code>158.38</code> → Stop: <code>157.50</code> → TP: <code>163.98</code>
+⚖️ R:R = 1:6
+💡 <i>Uptrend above SMA20/SMA50 with dollar strength from hawkish Fed, buy the pullback to SMA20 toward the 52w high; risk: RSI near 70 and price close to 52w max raise reversal odds.</i>
+
+🔴 <b>GBP/JPY</b> -- Short
+📊 <code>210.106</code> | RSI <code>44.2</code>
+📍 Entry: <code>211.19</code> → Stop: <code>212.20</code> → TP: <code>203.99</code>
+⚖️ R:R = 1:7
+💡 <i>Price slipped below SMA20 and is pinned under the descending SMA50 zone, sell the bounce back to SMA20 toward the 52w low; risk: stop sits just above SMA20, so a sharp pound rebound invalidates the setup.</i>
+
+⚠️ <i>Analysis, not signals. Manage your risk.</i>
+💡 Cashback on every trade → <i><a href="https://fxcash.net/en/?id=homepage">fxcash</a></i>
