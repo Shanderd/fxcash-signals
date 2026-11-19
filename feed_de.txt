@@ -91,3 +91,27 @@ Alle Top-Coins unter SMA20/SMA50, RSI <code>16-26</code> (extrem übersold) an 5
 ===1795026075===forex_expanded
 🔴 <b>EUR/USD</b> -- Short
 🔴 <b>GBP/USD</b> -- Short
+===1795079586===forex_expanded
+🟢 <b>EUR/USD</b> -- Long
+📊 <code>1.0999</code> | RSI <code>31.7</code>
+📍 Entry: <code>1.0975</code> → Stop: <code>1.0920</code> → TP: <code>1.1140</code>
+⚖️ R:R = 1:3
+💡 <i>Preis an 52w-Minimum mit RSI-Überverkauf, Ziel zurück zur SMA20.</i>
+⚠️ Risiko: Dollar-Rally auf hawkischem Fed kann 1.0952 auslösen.
+
+🔴 <b>USD/CHF</b> -- Short
+📊 <code>0.8421</code> | RSI <code>73.6</code>
+📍 Entry: <code>0.8450</code> → Stop: <code>0.8500</code> → TP: <code>0.8270</code>
+⚖️ R:R = 1:3.6
+💡 <i>RSI überkauft direkt am 52w-Maximum, Ziel an SMA20/SMA50.</i>
+⚠️ Risiko: Anhaltende Dollar-Stärke kann 52w-Hoch weiter ausdehnen.
+
+🔴 <b>USD/CAD</b> -- Short
+📊 <code>1.4310</code> | RSI <code>88.4</code>
+📍 Entry: <code>1.4380</code> → Stop: <code>1.4450</code> → TP: <code>1.4105</code>
+⚖️ R:R = 1:3.9
+💡 <i>RSI-Extrem überkauft an 52w-Maximum, Rückkehr zur SMA20 als Ziel.</i>
+⚠️ Risiko: Ölpreis-Schwäche und Dollar-Momentum können Trend fortsetzen.
+
+⚠️ <i>Alle Levels sind Limit-Orders beim Retracement, keine Marktausführung.</i>
+💡 <i>Cashback bei jedem Trade →</i> <a href="https://fxcash.net/en/?id=homepage">fxcash.net</a>
