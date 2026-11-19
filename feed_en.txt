@@ -166,3 +166,17 @@ Context: EUR/USD 1.0952 and GBP/USD 1.3174 are the downside levels in focus per 
 
 ⚠️ <i>Analysis, not signals. Manage your risk.</i>
 💡 Cashback on every trade → <i><a href="https://fxcash.net/en/?id=homepage">fxcash</a></i>
+===1795083195===crypto_expanded
+📊 <i>Market note: almost all majors sit 10-17% below SMA20 - no valid retracement level within the 3% distance cap, so they are skipped.</i>
+
+🔴 <b>TRX/USDT</b> -- Short
+📊 <code>0.3119</code> | RSI <code>37.5</code>
+📍 Entry: <code>0.3137</code> → Stop: <code>0.3249</code> → TP: <code>0.2700</code>
+⚖️ R:R = 1:3.9
+💡 <i>Price is pinned under both SMA20 (0.3137) and SMA50 (0.3249) inside the 0.27-0.38 range, so a bounce into SMA20 offers a low-risk short toward the 52-week low.</i>
+⚠️ Risk: a squeeze above 0.3250 invalidates the structure and opens the range top at 0.38.
+
+<i>Everything else (BTC, ETH, SOL, XRP, ADA, LTC, BCH, UNI) has its nearest level 9%+ away - entries there would violate the distance cap. RSI 14-30 on those names signals oversold conditions, so chasing shorts here is risky.</i>
+
+⚠️ Analysis, not signals. Manage your risk.
+💡 Cashback on every trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
