@@ -204,3 +204,20 @@ Context: EUR/USD 1.0952 and GBP/USD 1.3174 are the downside levels in focus per 
 
 ⚠️ Analysis, not signals. Manage your risk.
 💡 Cashback on every trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
+===1795168670===crypto_expanded
+⚠️ <i>Market-wide capitulation: RSI oversold across the board, ETF outflows and Fed tightening dominate - counter-trend longs are high-risk. Analysis only, not signals.</i>
+
+🔴 <b>TRX/USD</b> -- Short
+📊 <code>0.3083</code> | RSI <code>29.5</code>
+📍 Entry: <code>0.3139</code> → Stop: <code>0.3243</code> → TP: <code>0.2700</code>
+⚖️ R:R = 1:4.2
+💡 <i>Sell the bounce into declining SMA20 (0.3139, only 1.8% above), target is the 52w low zone.</i>
+
+🟢 <b>DOT/USD</b> -- Long
+📊 <code>0.6990</code> | RSI <code>14.0</code>
+📍 Entry: <code>0.6900</code> → Stop: <code>0.6550</code> → TP: <code>0.8298</code>
+⚖️ R:R = 1:4.0
+💡 <i>Extreme RSI 14.0 at the 52w low (0.69) suggests limited downside momentum, target SMA20.</i>
+
+⚠️ <i>Risk: RSI below 15 signals panic, but "oversold" stays valid in a downtrend - DOT and ADA longs are falling-knife plays; use half size or wait for a bullish reversal candle at entry.</i>
+💡 Cashback on every trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
