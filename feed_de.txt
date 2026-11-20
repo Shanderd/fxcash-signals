@@ -154,3 +154,22 @@ Alle Top-Coins unter SMA20/SMA50, RSI <code>16-26</code> (extrem übersold) an 5
 
 ⚠️ <i>Analyse, keine Signale. Risikomanagement beachten.</i>
 💡 <i>Cashback bei jedem Trade → <a href="https://fxcash.net/en/?id=homepage">fxcash.net</a></i>
+===1795168739===crypto_expanded
+🔴 <b>TRX</b> -- Short
+📊 <code>0.3083</code> | RSI <code>29.5</code>
+📍 Entry: <code>0.3139</code> → Stop: <code>0.3243</code> → TP: <code>0.2700</code>
+⚖️ R:R = 1:4.2
+💡 <i>Kurs unter SMA20 und SMA50 im Bärenmarkt - Retracement an SMA20 als Widerstand, Ziel 52w-Tief.</i>
+⚠️ <i>RSI 29.5 noch nicht extrem überverkauft, aber Abwärtsdynamik kann an SMA20 bereits abprallen.</i>
+
+🟢 <b>DOT</b> -- Long
+📊 <code>0.6996</code> | RSI <code>14.0</code>
+📍 Entry: <code>0.6900</code> → Stop: <code>0.6700</code> → TP: <code>0.8300</code>
+⚖️ R:R = 1:7.0
+💡 <i>RSI 14 extrem überverkauft an 52w-Unterstützung 0.69 - Chance auf Rückkehr zur SMA20.</i>
+⚠️ <i>Gegen den Abwärtstrend - bricht das 52w-Tief, droht Beschleunigung nach unten.</i>
+
+<i>Gesamtmarkt im Bärenmodus: BlackRock-ETF-Rekordabfluss 541 Mio. USD, BTC unter Mining-Kosten, Fed strafft - Cash ist Position. Keine neuen Longs ohne Bestätigung.</i>
+
+⚠️ Analyse, keine Signale. Risikomanagement beachten.
+💡 Cashback bei jedem Trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
