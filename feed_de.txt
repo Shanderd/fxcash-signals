@@ -133,3 +133,24 @@ Alle Top-Coins unter SMA20/SMA50, RSI <code>16-26</code> (extrem übersold) an 5
 ⚠️ <i>Рынок в состоянии шока: BTC -12% за неделю, редкий нисходящий сигнал - любые лонги только с жёстким стопом и малой долей.</i>
 
 💡 Кешбэк с каждой сделки → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
+===1795165028===forex_expanded
+🔴 <b>USD/CAD</b> -- Short
+📊 <code>1.4328</code> | RSI <code>91.7</code>
+📍 Entry: <code>1.4390</code> → Stop: <code>1.4470</code> → TP: <code>1.4123</code>
+⚖️ R:R = 1:3.3
+💡 <i>RSI 91.7 und Marke am 52w-Hoch deuten auf Umkehr nach unten; Risiko: Überkauf kann länger anhalten.</i>
+
+🔴 <b>GBP/USD</b> -- Short
+📊 <code>1.3101</code> | RSI <code>28.8</code>
+📍 Entry: <code>1.3321</code> → Stop: <code>1.3395</code> → TP: <code>1.3000</code>
+⚖️ R:R = 1:4.3
+💡 <i>Rücksetzer an die SMA20 als Widerstanszone im klaren Abwärtstrend; Risiko: RSI 28.8 überverkauft, Rücksetzer nach oben möglich.</i>
+
+🔴 <b>GBP/JPY</b> -- Short
+📊 <code>208.34</code> | RSI <code>36.7</code>
+📍 Entry: <code>211.09</code> → Stop: <code>212.50</code> → TP: <code>204.29</code>
+⚖️ R:R = 1:4.8
+💡 <i>Preis unter SMA20 und SMA50, Korrektur bis 211.09 als Einstieg Richtung 52w-Tief; Risiko: starke JPY-Überschneidung mit GBP/USD-Setup.</i>
+
+⚠️ <i>Analyse, keine Signale. Risikomanagement beachten.</i>
+💡 <i>Cashback bei jedem Trade → <a href="https://fxcash.net/en/?id=homepage">fxcash.net</a></i>
