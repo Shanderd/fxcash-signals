@@ -221,3 +221,11 @@ Context: EUR/USD 1.0952 and GBP/USD 1.3174 are the downside levels in focus per 
 
 ⚠️ <i>Risk: RSI below 15 signals panic, but "oversold" stays valid in a downtrend - DOT and ADA longs are falling-knife plays; use half size or wait for a bullish reversal candle at entry.</i>
 💡 Cashback on every trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
+===1795254029===crypto_expanded
+🟢 Market-wide selloff: BTC at 2-year lows, RSI across majors 9-28 - no valid shorts (retracement levels >3% away), so only knife-catch longs at 52w lows.
+
+🟢 <b>XRP</b> -- Long
+📊 <code>0.8922</code> | RSI <code>20.0</code>
+📍 Entry: <code>0.87</code> → Stop: <code>0.83</code> → TP: <code>1.0648</code>
+⚖️ R:R = 1:4.9
+💡 <i>Price sitting right on the 52w low 0.87 with RSI 20, bounce target is SMA20; risk = deep downtrend, a liquidity sweep below 0.87 can accelerate fast.</i>
