@@ -173,3 +173,13 @@ Alle Top-Coins unter SMA20/SMA50, RSI <code>16-26</code> (extrem übersold) an 5
 
 ⚠️ Analyse, keine Signale. Risikomanagement beachten.
 💡 Cashback bei jedem Trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
+===1795254032===crypto_expanded
+🔴📉 <b>Krypto-Marktlage 21.11.2026</b>
+
+<i>BTC unter 56k, breite Kapitulation - RSI 9-28 bei fast allen Coins. Long-Setups nur als Retracement an echten Supports, Distanz max. 3%.</i>
+
+🟢 <b>XRP</b> -- Long
+📊 <code>0.8917</code> | RSI <code>20.0</code>
+📍 Entry: <code>0.8700</code> → Stop: <code>0.8450</code> → TP: <code>1.0648</code>
+⚖️ R:R = 1:7.8
+💡 <i>Retracement an das 52w-Tief 0.87 bei stark oversoldem RSI, Ziel zurück an die SMA20.</i>
