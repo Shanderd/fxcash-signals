@@ -229,3 +229,29 @@ Context: EUR/USD 1.0952 and GBP/USD 1.3174 are the downside levels in focus per 
 📍 Entry: <code>0.87</code> → Stop: <code>0.83</code> → TP: <code>1.0648</code>
 ⚖️ R:R = 1:4.9
 💡 <i>Price sitting right on the 52w low 0.87 with RSI 20, bounce target is SMA20; risk = deep downtrend, a liquidity sweep below 0.87 can accelerate fast.</i>
+===1795340598===crypto_expanded
+⚠️ <b>Market overview:</b> Broad crypto capitulation -- most majors at 52w lows with RSI 14-33, all below SMA20/SMA50. Deep oversold bounce setups.
+
+🟢 <b>POLKADOT</b> -- Long
+📊 <code>0.6528</code> | RSI <code>14.2</code>
+📍 Entry: <code>0.6400</code> → Stop: <code>0.6150</code> → TP: <code>0.7988</code>
+⚖️ R:R = 1:6.3
+💡 <i>Price sits at 52w low with RSI 14.2 signaling extreme capitulation -- highest-probability mean-reversion zone.</i>
+⚠️ <i>Risk: A clean break below 52w low 0.64 invalidates the support and opens further downside.</i>
+
+🟢 <b>LITECOIN</b> -- Long
+📊 <code>39.44</code> | RSI <code>19.1</code>
+📍 Entry: <code>38.91</code> → Stop: <code>37.00</code> → TP: <code>47.70</code>
+⚖️ R:R = 1:4.6
+💡 <i>Price hovers just 1.3% above 52w low with RSI 19.1, while SMA20 at 47.70 offers a realistic mean-reversion target.</i>
+⚠️ <i>Risk: Continued selling pressure below the 52w low 38.91 confirms the downtrend has no floor yet.</i>
+
+🔴 <b>TRON</b> -- Short
+📊 <code>0.3043</code> | RSI <code>26.8</code>
+📍 Entry: <code>0.3125</code> → Stop: <code>0.3230</code> → TP: <code>0.2700</code>
+⚖️ R:R = 1:4.0
+💡 <i>Bearish structure below both SMAs with a bounce into SMA20 0.3125 offering a clean short entry before continuation toward 52w low.</i>
+⚠️ <i>Risk: RSI 26.8 is nearing oversold territory -- a broader crypto bounce could squeeze the short above SMA50 0.3230.</i>
+
+⚠️ <i>Analysis, not signals. Manage your risk.</i>
+💡 Cashback on every trade → <b>fxcash.net</b>
