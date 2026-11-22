@@ -183,3 +183,29 @@ Alle Top-Coins unter SMA20/SMA50, RSI <code>16-26</code> (extrem übersold) an 5
 📍 Entry: <code>0.8700</code> → Stop: <code>0.8450</code> → TP: <code>1.0648</code>
 ⚖️ R:R = 1:7.8
 💡 <i>Retracement an das 52w-Tief 0.87 bei stark oversoldem RSI, Ziel zurück an die SMA20.</i>
+===1795340563===crypto_expanded
+🔴🟡🟢 Krypto-Scan 22.11.2026 -- Alle Top-Coins unter SMA20/SMA50, massiv überverkauft. Retracement-Setups an Extrem-Supports:
+
+🟢 <b>Litecoin</b> -- Long
+📊 <code>39.42</code> | RSI <code>19.1</code>
+📍 Entry: <code>38.91</code> → Stop: <code>37.50</code> → TP: <code>47.70</code>
+⚖️ R:R = 1:6.2
+💡 <i>Doppelter Boden am 52w-Tief 38.91 mit RSI 19.1 -- Rebound-Ziel SMA20.</i>
+⚠️ Risiko: Trend klar abwärts, Bruch unter 37.50 beschleunigt die Abwärtsbewegung Richtung unbekannte Tiefs.
+
+🟢 <b>Polkadot</b> -- Long
+📊 <code>0.6528</code> | RSI <code>14.2</code>
+📍 Entry: <code>0.6400</code> → Stop: <code>0.6150</code> → TP: <code>0.7988</code>
+⚖️ R:R = 1:6.4
+💡 <i>Preis direkt am 52w-Minimum 0.64 bei extremem RSI 14.2 -- Retracement-Entry auf dem Support.</i>
+⚠️ Risiko: RSI 14.2 zeigt freien Fall, kein Trendumkehr-Bestätigung vor Entry.
+
+🔴 <b>Tron</b> -- Short
+📊 <code>0.3043</code> | RSI <code>26.8</code>
+📍 Entry: <code>0.3125</code> → Stop: <code>0.3250</code> → TP: <code>0.2700</code>
+⚖️ R:R = 1:3.4
+💡 <i>Fortsetzungs-Short am Retracement zur SMA20 (0.3125) als dynamischer Widerstand im Abwärtstrend.</i>
+⚠️ Risiko: RSI 26.8 überverkauft, ein Marktbounce zieht TRX über SMA50 = 0.323 nach oben.
+
+⚠️ <i>Gesamtmarkt überverkauft -- das sind Zock-Setups auf eine technische Gegenreaktion, keine Trendwende. Position klein halten.</i>
+💡 Cashback bei jedem Trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
