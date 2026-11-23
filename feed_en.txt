@@ -255,3 +255,27 @@ Context: EUR/USD 1.0952 and GBP/USD 1.3174 are the downside levels in focus per 
 
 ⚠️ <i>Analysis, not signals. Manage your risk.</i>
 💡 Cashback on every trade → <b>fxcash.net</b>
+===1795427074===forex_expanded
+🟢 <b>EUR/USD</b> -- Long
+📊 <code>1.0984</code> | RSI <code>28.0</code>
+📍 Entry: <code>1.0950</code> → Stop: <code>1.0900</code> → TP: <code>1.1114</code>
+⚖️ R:R = 1:3.3
+💡 <i>Price sits at the 52-week low with RSI deeply oversold, so a rebound toward SMA20 is the mean-reversion play.</i>
+⚠️ Risk: <i>Dollar strength is broad and strong - trend continuation can keep the pair pinned at lows.</i>
+
+🔴 <b>USD/CAD</b> -- Short
+📊 <code>1.4319</code> | RSI <code>87.2</code>
+📍 Entry: <code>1.4360</code> → Stop: <code>1.4425</code> → TP: <code>1.4139</code>
+⚖️ R:R = 1:3.4
+💡 <i>RSI at 87.2 while pressing the 52-week high signals exhaustion and a pullback to SMA20.</i>
+⚠️ Risk: <i>Extreme overbought readings can persist - RSI alone does not time the reversal.</i>
+
+🟢 <b>GBP/USD</b> -- Long
+📊 <code>1.3121</code> | RSI <code>29.3</code>
+📍 Entry: <code>1.3100</code> → Stop: <code>1.3040</code> → TP: <code>1.3307</code>
+⚖️ R:R = 1:3.5
+💡 <i>Pair is testing the 52-week low with RSI oversold, targeting a retracement back to SMA20.</i>
+⚠️ Risk: <i>GBP remains weak versus a rallying dollar, so the downtrend may extend before any bounce.</i>
+
+⚠️ Analysis, not signals. Manage your risk.
+💡 Cashback on every trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
