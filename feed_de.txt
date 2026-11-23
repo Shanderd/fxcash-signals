@@ -209,3 +209,28 @@ Alle Top-Coins unter SMA20/SMA50, RSI <code>16-26</code> (extrem übersold) an 5
 
 ⚠️ <i>Gesamtmarkt überverkauft -- das sind Zock-Setups auf eine technische Gegenreaktion, keine Trendwende. Position klein halten.</i>
 💡 Cashback bei jedem Trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
+===1795426426===forex_expanded
+🟡 <b>USD/CAD</b> -- Short
+🔴 <b>USD/CHF</b> -- Short
+🟢 <b>EUR/JPY</b> -- Long
+
+📊 <code>1.4319</code> | RSI <code>87.3</code>
+📍 Entry: <code>1.4380</code> → Stop: <code>1.4455</code> → TP: <code>1.4132</code>
+⚖️ R:R = 1:3.3
+💡 <i>Kurs am 52w-Hoch 1.44 bei massiv überkauftem RSI 87.3, Retracement-Short an die Marke 1.4380 Richtung SMA50.</i>
+⚠️ <i>Risiko: RSI 87.3 ist extrem - Trend kann kurzfristig weiterlaufen, Stop eng halten.</i>
+
+📊 <code>0.8387</code> | RSI <code>76.0</code>
+📍 Entry: <code>0.8398</code> → Stop: <code>0.8448</code> → TP: <code>0.8280</code>
+⚖️ R:R = 1:2.4
+💡 <i>Preis am 52w-Maximum 0.84 mit überkauftem RSI 76.0, Ziel ist der SMA50 bei 0.8280.</i>
+⚠️ <i>Risiko: Starker USD-Momentum laut Nachrichten kann Widerstand 0.84 brechen.</i>
+
+📊 <code>174.772</code> | RSI <code>35.4</code>
+📍 Entry: <code>173.90</code> → Stop: <code>172.80</code> → TP: <code>176.30</code>
+⚖️ R:R = 1:2.2
+💡 <i>Kurs direkt am 52w-Tief 173.53, Long-Einstieg an der Retracement-Zone Richtung SMA20.</i>
+⚠️ <i>Risiko: Übergeordneter Abwärtstrend unter SMA20/SMA50 bleibt bestehen.</i>
+
+⚠️ <i>Alle Paare aktuell im USD-Strecke -- Korrelation beachten, keine Überhäufung. Keine Anlageberatung.</i>
+💡 Cashback bei jedem Trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
