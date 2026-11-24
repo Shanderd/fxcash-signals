@@ -247,3 +247,27 @@ Alle Top-Coins unter SMA20/SMA50, RSI <code>16-26</code> (extrem übersold) an 5
 
 ⚠️ <i>Analysen, keine Anlageberatung. Risikomanagement beachten.</i>
 💡 <i>Cashback bei jedem Trade</i> → <a href="https://fxcash.net/en/?id=homepage">fxcash.net</a>
+===1795538950===forex_expanded
+🔴 <b>USD/CAD</b> -- Short
+📊 <code>1.4318</code> | RSI <code>86.4</code>
+📍 Entry: <code>1.4400</code> → Stop: <code>1.4480</code> → TP: <code>1.4140</code>
+⚖️ R:R = 1:3.3
+💡 <i>RSI extrem überkauft direkt am 52-Wochen-Hoch 1.44 - Umkehrgefahr.</i>
+⚠️ <i>Gegen den USD-Trend, nur kleine Position.</i>
+
+🟢 <b>EUR/USD</b> -- Long
+📊 <code>1.0969</code> | RSI <code>23.4</code>
+📍 Entry: <code>1.0900</code> → Stop: <code>1.0850</code> → TP: <code>1.1220</code>
+⚖️ R:R = 1:6.4
+💡 <i>RSI überverkauft direkt am 52-Wochen-Tief 1.09 - Retracement-Long an der Supportzone.</i>
+⚠️ <i>Fed-Zinserwartungen belasten den Euro, Trend weiter abwärts.</i>
+
+🔴 <b>USD/CHF</b> -- Short
+📊 <code>0.8354</code> | RSI <code>69.3</code>
+📍 Entry: <code>0.8400</code> → Stop: <code>0.8450</code> → TP: <code>0.8285</code>
+⚖️ R:R = 1:2.3
+💡 <i>Preis stößt an das 52-Wochen-Hoch 0.84 bei RSI nahe 70 - Abpraller Richtung SMA50.</i>
+⚠️ <i>USD-Momentum stark, Widerstand kann brechen - Stop eng halten.</i>
+
+⚠️ <i>Analyse, keine Signale. Risikomanagement beachten.</i>
+💡 <i>Cashback bei jedem Trade →</i> <b><a href="https://fxcash.net/en/?id=homepage">fxcash.net</a></b>
