@@ -327,3 +327,24 @@ Context: EUR/USD 1.0952 and GBP/USD 1.3174 are the downside levels in focus per 
 
 ⚠️ <i>Analysis, not signals. Manage your risk.</i>
 💡 Cashback on every trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
+===1795550500===forex_expanded
+🟢 <b>EUR/USD</b> -- Long
+📊 <code>1.0969</code> | RSI <code>23.4</code>
+📍 Entry: <code>1.0900</code> → Stop: <code>1.0860</code> → TP: <code>1.1103</code>
+⚖️ R:R = 1:5.1
+💡 <i>Oversold (RSI 23.4) at 52-week low 1.09 after heavy dollar rally - a pullback to the lows offers a deep-value bounce toward SMA20. Risk: strong USD trend and Fed hike bets can break 1.09 support toward parity territory.</i>
+
+🔴 <b>USD/CAD</b> -- Short
+📊 <code>1.4270</code> | RSI <code>77.8</code>
+📍 Entry: <code>1.4400</code> → Stop: <code>1.4450</code> → TP: <code>1.4153</code>
+⚖️ R:R = 1:4.9
+💡 <i>Overbought (RSI 77.8) at the 52-week high 1.44 while CAD rebounds from 19-month lows on softer dollar - fading a spike into that extreme targets SMA20. Risk: hawkish CIBC/BoC rate-hike talk on inflation can keep CAD weak and push the pair through 1.44.</i>
+
+🟢 <b>USD/JPY</b> -- Long
+📊 <code>159.1930</code> | RSI <code>56.2</code>
+📍 Entry: <code>158.71</code> → Stop: <code>157.80</code> → TP: <code>163.98</code>
+⚖️ R:R = 1:5.8
+💡 <i>Price holds above both SMAs in an uptrend, so a pullback to SMA20 is a continuation entry toward the 52-week high 163.98. Risk: a broader dollar pullback (DXY easing today) could deepen the retracement below SMA50 at 158.06.</i>
+
+⚠️ <i>Analysis, not signals. Manage your risk.</i>
+💡 <i>Cashback on every trade →</i> <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
