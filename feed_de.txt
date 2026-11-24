@@ -315,3 +315,20 @@ Nur <b>1 valides Setup</b>: Alle anderen Coins sind >3% von guten Retracement-Le
 
 ⚠️ <i>Analyse, keine Signale. Risikomanagement beachten.</i>
 💡 Cashback bei jedem Trade → <code><a href="https://fxcash.net/en/?id=homepage">fxcash</a></code>
+===1795564271===commodities
+🟢 <b>Gold</b> -- Long
+📊 <code>3.554,80</code> | RSI <code>23.4</code> | SMA20 <code>3.896,82</code> | SMA50 <code>4.081,29</code>
+📍 Entry: <code>3.502,90</code> (52w-Tief) → Stop: <code>3.420,00</code> → TP: <code>3.896,82</code> (SMA20)
+⚖️ R:R = 1:4,8
+💡 <i>Überverkauftes Retracement direkt am 52-Wochen-Tief trotz Abwärtsstruktur unter SMA20/SMA50, Katalysator ist die Fed-Entscheidung und der fallende Ölpreis als Stimmungsstütze, Risiko ist ein Bruch unter das 52-Wochen-Tief bei RSI 23,4 (Umkehrwarnung: extreme Überverkauftzone).</i>
+
+🟢 <b>Silber</b> -- Long
+📊 <code>40,7350</code> | RSI <code>21.4</code> | SMA20 <code>48,7032</code> | SMA50 <code>55,5248</code>
+📍 Entry: <code>40,73</code> (52w-Tief) → Stop: <code>38,80</code> → TP: <code>48,70</code> (SMA20)
+⚖️ R:R = 1:4,1
+💡 <i>Bodenansatz exakt am 52-Wochen-Tief bei RSI 21,4, Katalysator ist die Precious-Metals-Investorenkonferenz vom 1.-3. Dezember, Risiko ist ein neues 52-Wochen-Tief nach dem -5,59% Einbruch (Umkehrwarnung: Preis innerhalb 0,01% des 52w-Minimums).</i>
+
+<i>Brent: kein Setup -- SMA20 (<code>97,79</code>) ist <code>10,6%</code> vom Preis entfernt, damit überschreitet jedes Retracement-Entry die 2%-Grenze; Trend weiter belastet durch sinkende Rohölpreise und schwächere Benzin-Nachfrage.</i>
+
+⚠️ Analyse, keine Signale. Risikomanagement beachten.
+💡 Cashback bei jedem Trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
