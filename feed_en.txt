@@ -348,3 +348,14 @@ Context: EUR/USD 1.0952 and GBP/USD 1.3174 are the downside levels in focus per 
 
 ⚠️ <i>Analysis, not signals. Manage your risk.</i>
 💡 <i>Cashback on every trade →</i> <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
+===1795554285===stocks_expanded
+🟢 <b>[Apple]</b> -- Long
+📊 <code>354.07</code> | RSI <code>54.3</code>
+📍 Entry: <code>348.08</code> → Stop: <code>342.58</code> → TP: <code>360.83</code>
+⚖️ R:R = 1:2.3
+💡 <i>Price holds above SMA20/SMA50 with a clean pullback entry into SMA20, but it trades at the 52w high zone, so reversal risk is elevated.</i>
+
+<i>Only one setup met all criteria today: for most instruments (Nasdaq, Microsoft, JPMorgan, DAX, FTSE 100, Google, Amazon) retracement levels sit more than 2% away, and Tesla has no real TP level keeping R:R within 1:8.</i>
+
+⚠️ Analysis, not signals. Manage your risk.
+💡 Cashback on every trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
