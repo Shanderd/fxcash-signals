@@ -313,3 +313,17 @@ Context: EUR/USD 1.0952 and GBP/USD 1.3174 are the downside levels in focus per 
 
 ⚠️ <i>Analysis, not signals. Manage your risk.</i>
 💡 <i>Cashback on every trade →</i> <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
+===1795541474===crypto_expanded
+⚠️ <b>Analysis, not signals. Manage your risk.</b>
+
+🔴 <b>TRX/USD</b> -- Short
+📊 <code>0.3074</code> | RSI <code>36.1</code>
+📍 Entry: <code>0.3113</code> → Stop: <code>0.3219</code> → TP: <code>0.2700</code>
+⚖️ R:R = 1:3.9
+💡 <i>Price is capped under both SMAs in a steady downtrend, so a bounce into the falling SMA20 (0.3113) is the cleanest short re-entry.</i>
+⚠️ <i>Risk: the whole market is deeply oversold (BTC RSI 17.9, DOT 20.2), so a coordinated bounce could sweep above SMA50.</i>
+
+<i>Other coins are skipped: nearest real levels (52w lows or SMA20) sit 5-20% away from price - beyond the 3% retracement limit, so no valid entries on BTC, ETH, SOL, XRP, DOT, LTC.</i>
+
+⚠️ <i>Analysis, not signals. Manage your risk.</i>
+💡 Cashback on every trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
