@@ -292,3 +292,24 @@ Context: EUR/USD 1.0952 and GBP/USD 1.3174 are the downside levels in focus per 
 
 ⚠️ <i>Analysen, keine Anlageberatung. Risikomanagement beachten.</i>
 💡 <i>Cashback bei jedem Trade</i> → <a href="https://fxcash.net/en/?id=homepage">fxcash.net</a>
+===1795538955===forex_expanded
+🟢 <b>EUR/USD</b> -- Long
+📊 <code>1.0969</code> | RSI <code>23.4</code>
+📍 Entry: <code>1.0900</code> → Stop: <code>1.0850</code> → TP: <code>1.1103</code>
+⚖️ R:R = 1:4
+💡 <i>Price sits at 52w low with deeply oversold RSI 23.4, pullback to 1.0900 support offers long toward SMA20; risk = break of 52w low confirms continued dollar strength.</i>
+
+🔴 <b>USD/CAD</b> -- Short
+📊 <code>1.4319</code> | RSI <code>86.5</code>
+📍 Entry: <code>1.4380</code> → Stop: <code>1.4430</code> → TP: <code>1.4155</code>
+⚖️ R:R = 1:4.5
+💡 <i>RSI 86.5 at 52w max 1.44 signals extreme exhaustion, bounce to 1.4380 offers short toward SMA20; risk = fresh USD bid on Fed hike repricing invalidates.</i>
+
+🟢 <b>AUD/USD</b> -- Long
+📊 <code>0.6634</code> | RSI <code>17.6</code>
+📍 Entry: <code>0.6580</code> → Stop: <code>0.6480</code> → TP: <code>0.6863</code>
+⚖️ R:R = 1:2.8
+💡 <i>RSI 17.6 is extreme oversold with price far below both SMAs, retest of 0.6580 offers long toward SMA20; risk = new tariff headlines from US administration pressure risk currencies.</i>
+
+⚠️ <i>Analysis, not signals. Manage your risk.</i>
+💡 <i>Cashback on every trade →</i> <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
