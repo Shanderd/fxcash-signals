@@ -271,3 +271,30 @@ Alle Top-Coins unter SMA20/SMA50, RSI <code>16-26</code> (extrem übersold) an 5
 
 ⚠️ <i>Analyse, keine Signale. Risikomanagement beachten.</i>
 💡 <i>Cashback bei jedem Trade →</i> <b><a href="https://fxcash.net/en/?id=homepage">fxcash.net</a></b>
+===1795545724===stocks_expanded
+📊 <b>Market-Überblick 25.11.2026</b>
+Breite Schwäche: S&P, Nasdaq, DAX unter SMA20/50, RSI 33-38. Microsoft und JPMorgan überverkauft (RSI &lt; 27), Apple/Tesla als Einzige über SMA20/50.
+
+🟢 <b>Microsoft</b> -- Long
+📊 <code>496.59</code> | RSI <code>25.8</code>
+📍 Entry: <code>490.00</code> → Stop: <code>478.00</code> → TP: <code>519.21</code>
+⚖️ R:R = 1:2.4
+💡 <i>RSI massiv überverkauft bei 25.8 - Retracement auf 490 als Chance zum Rücklauf zur SMA20.</i>
+⚠️ <i>Risiko: Trend weiter abwärts unter beiden SMAs, Fehlbounce möglich.</i>
+
+🟢 <b>Goldman Sachs</b> -- Long
+📊 <code>807.67</code> | RSI <code>30.8</code>
+📍 Entry: <code>800.00</code> → Stop: <code>777.00</code> → TP: <code>884.51</code>
+⚖️ R:R = 1:3.6
+💡 <i>Preis nahe 52w-Tief (777.99) mit überverkauftem RSI - Retracement auf 800 Richtung SMA20.</i>
+⚠️ <i>Risiko: Bruch der 52w-Marke 777.99 öffnet Raum nach unten.</i>
+
+🟢 <b>Apple</b> -- Long
+📊 <code>353.12</code> | RSI <code>53.5</code>
+📍 Entry: <code>348.04</code> → Stop: <code>343.00</code> → TP: <code>360.83</code>
+⚖️ R:R = 1:2.6
+💡 <i>Als Einziger über SMA20/50 - Retracement an die SMA20 (348) als Einstieg zum 52w-Hoch.</i>
+⚠️ <i>Risiko: Markt-Breite negativ, Absicherung nötig falls SMA20 bricht.</i>
+
+⚠️ <i>Keine Anlageberatung. Positionierung und Stopps konsequent einhalten.</i>
+💡 Cashback bei jedem Trade → <a href="https://fxcash.net/en/?id=homepage">fxcash.net</a>
