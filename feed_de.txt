@@ -374,3 +374,26 @@ Nur <b>1 valides Setup</b>: Alle anderen Coins sind >3% von guten Retracement-Le
 ⚠️ <i>Alle anderen Instrumente scheitern an der 2 %-Distanzregel zum Entry-Level. Analyse, keine Signale. Risikomanagement beachten.</i>
 
 💡 Cashback bei jedem Trade → <a href="https://fxcash.net/en/?id=homepage"><a href="https://fxcash.net/en/?id=homepage">fxcash</a></a>
+===1795636721===crypto_expanded
+📊 <b>Krypto-Analyse 26.11.2026</b>
+
+<i>Breite Abwärtsdynamik -- fast alle Coins unter SMA20 und SMA50. Extrem überverkauft: BTC RSI <code>17.4</code>, AVAX <code>20.6</code>, DOT <code>22.8</code>. Für die meisten Coins fehlen Levels innerhalb 3% -- nur zwei brauchbare Setups.</i>
+
+🔴 <b>TRX/USD</b> -- Short
+📊 <code>0.3033</code> | RSI <code>33.1</code>
+📍 Entry: <code>0.3106</code> → Stop: <code>0.3213</code> → TP: <code>0.27</code>
+⚖️ R:R = 1:3.8
+💡 <i>Tron unter SMA20/SMA50 -- Retracement-Short an SMA20 als Widerstand, Ziel 52w-Tief.</i>
+⚠️ <i>Stop über SMA50 (0.3213) schützt vor Fehlausbruch bei volatiler Gegenbewegung.</i>
+
+🟢 <b>DOT/USD</b> -- Long
+📊 <code>0.6629</code> | RSI <code>22.8</code>
+📍 Entry: <code>0.65</code> → Stop: <code>0.62</code> → TP: <code>0.7586</code>
+⚖️ R:R = 1:3.6
+💡 <i>DOT extrem überverkauft nahe 52w-Tief -- Retracement-Long an psychologischem Level 0.65, Ziel SMA20.</i>
+⚠️ <i>Kontra-Trend-Trade -- Stop am 52w-Tief 0.62 ist die letzte Verteidigungslinie.</i>
+
+👀 <b>Beobachtung:</b> BTC RSI <code>17.4</code> ist der tiefste Wert aller Coins -- technische Erholung wahrscheinlich, aber ohne bestätigtes Level innerhalb 3% kein sauberes Entry. Auf Konsolidierung vor Entry warten.
+
+⚠️ <i>Analyse, keine Signale. Risikomanagement beachten.</i>
+💡 <i>Cashback bei jedem Trade → <b><a href="https://fxcash.net/en/?id=homepage">fxcash</a></b></i>
