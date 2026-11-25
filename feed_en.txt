@@ -359,3 +359,20 @@ Context: EUR/USD 1.0952 and GBP/USD 1.3174 are the downside levels in focus per 
 
 ⚠️ Analysis, not signals. Manage your risk.
 💡 Cashback on every trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
+===1795575527===commodities
+🟢 <b>GOLD</b> -- Long (mixed signal: price below SMA50)
+📊 <code>3556.30</code> | RSI <code>20.1</code>
+📍 Entry: <code>3503.00</code> → Stop: <code>3440.00</code> → TP: <code>3872.40</code>
+⚖️ R:R = 1:5.9
+💡 <i>Double support at 52w low <code>3502.90</i> with deeply oversold RSI <code>20.1</i> and negative momentum of <code>-0.16%</i> keeps sentiment weak, while new high-grade drilling headlines may support prices - <i>risk: breakdown below the 52w low could accelerate the decline.</i></i>
+
+🟢 <b>SILVER</b> -- Long (mixed signal: price below SMA50)
+📊 <code>40.665</code> | RSI <code>20.9</code>
+📍 Entry: <code>40.44</code> → Stop: <code>39.20</code> → TP: <code>48.06</code>
+⚖️ R:R = 1:6.1
+💡 <i>Price sits right on the 52w low <code>40.44</i> with RSI <code>20.9</i> deeply oversold, and the upcoming Precious Metals investor conference could spark interest - <i>risk: a close below <code>40.44</i> invalidates the support and opens further downside.</i></i>
+
+<i>Brent: no valid setup - nearest levels (SMA20 <code>96.56</i>) are more than 2% away from price <code>87.69</i>, and RSI <code>29.7</i> after a <code>-4.06%</i> drop raises rebound risk. Skipping.</i>
+
+⚠️ Analysis, not signals. Manage your risk.
+💡 Cashback on every trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a></code></code></code></code></code></code></code></code></code></code>
