@@ -356,3 +356,21 @@ Nur <b>1 valides Setup</b>: Alle anderen Coins sind >3% von guten Retracement-Le
 
 ⚠️ <i>Analyse, keine Signale. Positionsgröße und Risikomanagement beachten - Korrelation der USD-Paare bedenken.</i>
 💡 <i>Cashback bei jedem Trade →</i> <code><a href="https://fxcash.net/en/?id=homepage">fxcash</a></code>
+===1795629212===stocks_expanded
+⚠️ <b>Marktlage:</b> Breiter Verkaufsdruck, Tech unter Druck, neue Zölle belasten die Stimmung. Nur 2 Setups erfüllen alle Distanz- und R:R-Kriterien.
+
+🟢 <b>Apple</b> -- Long
+📊 <code>353.04</code> | RSI <code>59.1</code>
+📍 Entry: <code>348.54</code> → Stop: <code>342.50</code> → TP: <code>360.83</code>
+⚖️ R:R = 1:2.0
+💡 <i>Einziges Instrument über SMA20 und SMA50 - Retracement an SMA20 als Long-Einstieg. Risiko: Kurs nur 2,2 % unter 52w-Hoch 360.83 bei schwachem Marktumfeld - Umkehrgefahr beachten.</i>
+
+🔴 <b>CAC 40</b> -- Short
+📊 <code>7980.57</code> | RSI <code>37.8</code>
+📍 Entry: <code>8016.09</code> → Stop: <code>8150.00</code> → TP: <code>7505.27</code>
+⚖️ R:R = 1:3.8
+💡 <i>Klare Abwärtsstruktur unter SMA20 und SMA50 - Retracement an SMA50 als Short-Einstieg. Risiko: RSI 37.8 nähert sich Überverkauf und das TP am 52w-Tief ist ein ambitioniertes Fernziel.</i>
+
+⚠️ <i>Alle anderen Instrumente scheitern an der 2 %-Distanzregel zum Entry-Level. Analyse, keine Signale. Risikomanagement beachten.</i>
+
+💡 Cashback bei jedem Trade → <a href="https://fxcash.net/en/?id=homepage"><a href="https://fxcash.net/en/?id=homepage">fxcash</a></a>
