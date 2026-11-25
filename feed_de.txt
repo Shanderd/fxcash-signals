@@ -332,3 +332,27 @@ Nur <b>1 valides Setup</b>: Alle anderen Coins sind >3% von guten Retracement-Le
 
 ⚠️ Analyse, keine Signale. Risikomanagement beachten.
 💡 Cashback bei jedem Trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
+===1795619840===forex_expanded
+🟢 <b>EUR/USD</b> -- Long
+📊 <code>1.0940</code> | RSI <code>21.2</code>
+📍 Entry: <code>1.0900</code> → Stop: <code>1.0850</code> → TP: <code>1.1207</code>
+⚖️ R:R = 1:6.1
+💡 <i>Preis am 52w-Tief (1.09) mit RSI 21.2 klar überverkauft, Chance auf Rücklauf zur SMA50.</i>
+⚠️ <i>Gegen den Abwärtstrend unter SMA20/SMA50 - Stop unbedingt unter 1.09 halten.</i>
+
+🟢 <b>AUD/USD</b> -- Long
+📊 <code>0.6581</code> | RSI <code>10.3</code>
+📍 Entry: <code>0.6530</code> → Stop: <code>0.6450</code> → TP: <code>0.6941</code>
+⚖️ R:R = 1:5.1
+💡 <i>RSI 10.3 an der 52w-Marke 0.65 zeigt extreme Erschöpfung, Ziel ist die SMA50.</i>
+⚠️ <i>Reiner Mean-Reversion-Trade gegen den starken Abwärtstrend - kein Nachkauf bei Bruch der 0.65.</i>
+
+🔴 <b>USD/CAD</b> -- Short
+📊 <code>1.4239</code> | RSI <code>75.3</code>
+📍 Entry: <code>1.4350</code> → Stop: <code>1.4420</code> → TP: <code>1.4148</code>
+⚖️ R:R = 1:2.9
+💡 <i>RSI 75.3 an der 52w-Obergrenze 1.44 - Retracement-Short Richtung SMA50.</i>
+⚠️ <i>Dollar-Stärke vor PCE-Daten kann Hoch brechen; erst bei Erreichen des Entry-Levels handeln.</i>
+
+⚠️ <i>Analyse, keine Signale. Positionsgröße und Risikomanagement beachten - Korrelation der USD-Paare bedenken.</i>
+💡 <i>Cashback bei jedem Trade →</i> <code><a href="https://fxcash.net/en/?id=homepage">fxcash</a></code>
