@@ -397,3 +397,18 @@ Context: EUR/USD 1.0952 and GBP/USD 1.3174 are the downside levels in focus per 
 ⚖️ R:R = 1:2.5
 💡 <i>Downtrend below both SMAs - sell the pullback to SMA20 with TP at the 52-week low 173.29.</i>
 ⚠️ <i>Risk: RSI near oversold 30.6 and price close to 52-week minimum - bounce potential is rising.</i>
+===1795638696===stocks_expanded
+🟢 <b>Apple</b> -- Long
+📊 <code>354.69</code> | RSI <code>60.8</code>
+📍 Entry: <code>348.63</code> → Stop: <code>343.03</code> → TP: <code>360.83</code>
+⚖️ R:R = 1:2.2
+💡 <i>Price above both SMAs in a firm uptrend, pullback to SMA20 offers a dip-buy entry toward the 52w high. RSI 60.8 and proximity to the 52w maximum flag elevated reversal risk.</i>
+
+🔴 <b>Chevron</b> -- Short
+📊 <code>211.52</code> | RSI <code>48.0</code>
+📍 Entry: <code>215.72</code> → Stop: <code>236.48</code> → TP: <code>146.49</code>
+⚖️ R:R = 1:3.3
+💡 <i>Price below the tight SMA20/SMA50 resistance cluster, bounce to SMA20 offers a short entry toward the 52w low. Wide stop at the 52w high demands very small position sizing.</i>
+
+⚠️ Analysis, not signals. Manage your risk.
+💡 Cashback on every trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
