@@ -397,3 +397,17 @@ Nur <b>1 valides Setup</b>: Alle anderen Coins sind >3% von guten Retracement-Le
 
 ⚠️ <i>Analyse, keine Signale. Risikomanagement beachten.</i>
 💡 <i>Cashback bei jedem Trade → <b><a href="https://fxcash.net/en/?id=homepage">fxcash</a></b></i>
+===1795649704===commodities
+🔎 <b>Marktüberblick Rohstoffe 26.11.2026</b> - <i>Keine gültigen Setups, Entry-Regel (max. 2% Distanz) für alle drei Instrumente verletzt.</i>
+
+🥇 <b>Gold</b> 📉 <code>3601.70</code> | RSI <code>23.5</code> ⚠️ überverkauft
+<i>SMA20 <code>3874.68</code> liegt <code>7.6%</code> über dem Kurs → Retracement-Entry unmöglich, nur <code>2.8%</code> über dem 52w-Tief <code>3502.90</code>, Momentum eindeutig abwärts - kein Long ohne Bodenbildung, kein Short mehr nach so starkem Rückgang.</i>
+
+🛢️ <b>Brent</b> 📉 <code>90.57</code> | RSI <code>33.3</code>
+<i>SMA20 <code>96.70</code> ist <code>6.8%</code> entfernt, Preis unter SMA20 und SMA50 → Fortsetzungstrend ohne handelbare Korrektur, <i>Ölpreisverfall stützt Aktienmarkt und drückt Benzinpreise unter <code>$4</code></i>, Zielzone bei <code>85.75</code> (52w-Tief-Kluster) bleibt Beobachtungspunkt.</i>
+
+🥈 <b>Silber</b> 📉 <code>41.61</code> | RSI <code>24.3</code> ⚠️ überverkauft
+<i>SMA20 <code>48.11</code> ist <code>15.6%</code> entfernt, nur <code>2.3%</code> über dem 52w-Tief <code>40.66</code> → totale Trendzerstörung, <i>Spannung Gold/Silber-Ratio auf Rekordniveau, Erholung nur nach V-Form-Reversal vom <code>40.66</code> denkbar</i>, blindes Bottom-Fishing zu gefährlich.</i>
+
+⚠️ <b>Fazit:</b> Alle drei Metalle/Energieträger laufen stärker abwärts als jede gesunde Korrektur - nächste potenzielle Retracement-Zonen sind <code>3874</code> (Gold), <code>96.70</code> (Brent), <code>48.11</code> (Silber), jeweils außerhalb der 2%-Regel. <i>Analyse, keine Signale - Risikomanagement beachten.</i>
+💡 Cashback bei jedem Trade → <a href="https://fxcash.net/en/?id=homepage">fxcash.net</a>
