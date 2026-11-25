@@ -388,3 +388,12 @@ Context: EUR/USD 1.0952 and GBP/USD 1.3174 are the downside levels in focus per 
 
 ⚠️ <i>Analysis, not signals. Manage your risk.</i>
 💡 <i>Cashback on every trade</i> → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
+===1795633347===forex_expanded
+📊 <b>FOREX REVIEW - 26.11.2026</b>
+
+🔴 <b>EUR/JPY</b> -- Short
+📊 <code>174.78</code> | RSI <code>30.6</code>
+📍 Entry: <code>176.10</code> → Stop: <code>177.22</code> → TP: <code>173.29</code>
+⚖️ R:R = 1:2.5
+💡 <i>Downtrend below both SMAs - sell the pullback to SMA20 with TP at the 52-week low 173.29.</i>
+⚠️ <i>Risk: RSI near oversold 30.6 and price close to 52-week minimum - bounce potential is rising.</i>
