@@ -435,3 +435,21 @@ Nur <b>1 valides Setup</b>: Alle anderen Coins sind >3% von guten Retracement-Le
 
 ⚠️ <i>Analyse, keine Signale. Risikomanagement beachten.</i>
 💡 <i>Cashback bei jedem Trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a></i>
+===1795714672===stocks_expanded
+⚠️ <b>Analyse, keine Signale.</b> Risikomanagement beachten.
+
+🟢 <b>Apple</b> -- Long
+📊 <code>355.58</code> | RSI <code>61.6</code>
+📍 Entry: <code>348.67</code> → Stop: <code>343.05</code> → TP: <code>360.83</code>
+⚖️ R:R = 1:2.2
+💡 <i>Aufwärtstrend über SMA20/SMA50, Retracement an SMA20 für Fortsetzung zum 52w-Hoch.</i>
+⚠️ <i>Nahe 52w-Maximum bei RSI 61.6 - Umkehrgefahr.</i>
+
+🔴 <b>CAC 40</b> -- Short
+📊 <code>8108.74</code> | RSI <code>48.5</code>
+📍 Entry: <code>8151.67</code> → Stop: <code>8210.00</code> → TP: <code>8014.53</code>
+⚖️ R:R = 1:2.4
+💡 <i>Korridor zwischen SMA20 und SMA50, Retracement an SMA20 für Abverkauf bis SMA50.</i>
+⚠️ <i>Starke europäische Erholung (+1.61%) könnte SMA20-Breakout auslösen.</i>
+
+💡 Cashback bei jedem Trade → <i><a href="https://fxcash.net/en/?id=homepage">fxcash</a></i>
