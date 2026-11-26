@@ -412,3 +412,15 @@ Context: EUR/USD 1.0952 and GBP/USD 1.3174 are the downside levels in focus per 
 
 ⚠️ Analysis, not signals. Manage your risk.
 💡 Cashback on every trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
+===1795658804===commodities
+<i>⚠️ Analysis, not signals. Manage your risk.</i>
+
+<b>🟢 <b>Silver</b> -- Long</b>
+<b>📊 <code>41.33</code> | RSI <code>25.5</code></b>
+<b>📍 Entry: <code>40.66</code> → Stop: <code>39.30</code> → TP: <code>47.49</code></b>
+<b>⚖️ R:R = 1:<code>5.0</code></b>
+💡 <i>Oversold retest of the <code>52w</code> low <code>40.66</code> with RSI <code>25.5</code> sets up a bounce toward SMA20 <code>47.49</code> as sliding oil cools inflation fears, but the price is still below SMA50 so this is a mixed signal with clear reversal risk at the yearly low.</i>
+
+<i>No signal on Gold and Brent: nearest entry levels (52w low <code>3502.90</code> / SMA20 <code>95.70</code>) sit more than 2% away from price, so no valid retracement entry exists.</i>
+
+💡 Cashback on every trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
