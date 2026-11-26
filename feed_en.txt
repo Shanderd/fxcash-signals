@@ -436,3 +436,27 @@ Most levels sit <b>&gt;3% away</b> (BTC, ETH, SOL, ADA, DOGE, AVAX, DOT, UNI) - 
 💡 <i>Price is below both SMA20 and SMA50 in a steady downtrend, so a bounce back into the SMA20/SMA50 supply zone near 0.31-0.32 offers a short entry toward the 52-week low at 0.27.</i>
 
 ⚠️ Risk: a reclaim and close above the SMA50 at 0.3206 invalidates the bearish structure and stops the trade out.
+===1795719208===forex_expanded
+🔴 <b>EUR/USD</b> -- Short
+📊 <code>1.0973</code> | RSI <code>26.4</code>
+📍 Entry: <code>1.1083</code> → Stop: <code>1.1140</code> → TP: <code>1.0900</code>
+⚖️ R:R = 1:3.2
+💡 <i>Downtrend below both SMAs with retracement entry at SMA20 and target at 52w low 1.09.</i>
+⚠️ <i>RSI 26.4 is oversold and price sits at 52w minimum - reversal risk is elevated.</i>
+
+🔴 <b>GBP/JPY</b> -- Short
+📊 <code>208.763</code> | RSI <code>32.7</code>
+📍 Entry: <code>210.750</code> → Stop: <code>211.600</code> → TP: <code>205.500</code>
+⚖️ R:R = 1:6.2
+💡 <i>Price is below both SMAs and the sell entry sits on SMA20 resistance ahead of the 52w low 205.21.</i>
+⚠️ <i>Wide stop zone near 52w lows means volatility spikes can hit stops before the target.</i>
+
+🟢 <b>USD/CHF</b> -- Long
+📊 <code>0.8341</code> | RSI <code>73.4</code>
+📍 Entry: <code>0.8305</code> → Stop: <code>0.8265</code> → TP: <code>0.8420</code>
+⚖️ R:R = 1:2.9
+💡 <i>Dollar strength keeps the pair above both SMAs with the pullback entry at SMA20 toward the 52w high 0.84.</i>
+⚠️ <i>RSI 73.4 overbought at the 52w maximum on strong DXY - a reversal warning is in effect.</i>
+
+⚠️ Analysis, not signals. Manage your risk.
+💡 Cashback on every trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
