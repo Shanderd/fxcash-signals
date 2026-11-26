@@ -460,3 +460,23 @@ Most levels sit <b>&gt;3% away</b> (BTC, ETH, SOL, ADA, DOGE, AVAX, DOT, UNI) - 
 
 ⚠️ Analysis, not signals. Manage your risk.
 💡 Cashback on every trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
+===1795723413===stocks_expanded
+<b>Market view:</b> broad risk-off - Nasdaq <code>-0.62%</code>, NVIDIA <code>-3.91%</code>, most indices below both SMAs. Apple at 52w max with elevated RSI - reversal watch.
+
+🔴 <b>Apple</b> -- Short
+📊 <code>355.58</code> | RSI <code>61.6</code>
+📍 Entry: <code>360.83</code> → Stop: <code>363.30</code> → TP: <code>348.67</code>
+⚖️ R:R = 1:4.9
+💡 <i>Price pinned at 52w high with RSI 61.6 and +0.43% divergence vs. weak Nasdaq - fade the extreme into SMA20.</i>
+⚠️ <i>52w max zone - no shorts until rejection candle confirms.</i>
+
+🔴 <b>CAC 40</b> -- Short
+📊 <code>8108.74</code> | RSI <code>48.5</code>
+📍 Entry: <code>8151.67</code> → Stop: <code>8195.00</code> → TP: <code>8014.53</code>
+⚖️ R:R = 1:3.2
+💡 <i>Price rejected below SMA20 while stuck under the 20-day mean - short the bounce into dynamic resistance, targeting SMA50.</i>
+⚠️ <i>Index still above SMA50 - trend is mixed, cut if it closes above 8151.</i>
+
+<i>Patterns sit at real levels; position size to survive a stop-out. Analysis only - not financial advice.</i>
+
+💡 Cashback on every trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
