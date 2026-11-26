@@ -424,3 +424,15 @@ Context: EUR/USD 1.0952 and GBP/USD 1.3174 are the downside levels in focus per 
 <i>No signal on Gold and Brent: nearest entry levels (52w low <code>3502.90</code> / SMA20 <code>95.70</code>) sit more than 2% away from price, so no valid retracement entry exists.</i>
 
 💡 Cashback on every trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
+===1795711579===crypto_expanded
+⚠️ <b>Analysis, not signals.</b> Manage your risk.
+
+Most levels sit <b>&gt;3% away</b> (BTC, ETH, SOL, ADA, DOGE, AVAX, DOT, UNI) - no valid retracement setups there. Only one instrument qualifies:
+
+🔴 <b>TRX/USD</b> -- Short
+📊 <code>0.3022</code> | RSI <code>33.3</code>
+📍 Entry: <code>0.3098</code> → Stop: <code>0.3206</code> → TP: <code>0.2700</code>
+⚖️ R:R = 1:3.7
+💡 <i>Price is below both SMA20 and SMA50 in a steady downtrend, so a bounce back into the SMA20/SMA50 supply zone near 0.31-0.32 offers a short entry toward the 52-week low at 0.27.</i>
+
+⚠️ Risk: a reclaim and close above the SMA50 at 0.3206 invalidates the bearish structure and stops the trade out.
