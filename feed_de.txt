@@ -411,3 +411,27 @@ Nur <b>1 valides Setup</b>: Alle anderen Coins sind >3% von guten Retracement-Le
 
 ⚠️ <b>Fazit:</b> Alle drei Metalle/Energieträger laufen stärker abwärts als jede gesunde Korrektur - nächste potenzielle Retracement-Zonen sind <code>3874</code> (Gold), <code>96.70</code> (Brent), <code>48.11</code> (Silber), jeweils außerhalb der 2%-Regel. <i>Analyse, keine Signale - Risikomanagement beachten.</i>
 💡 Cashback bei jedem Trade → <a href="https://fxcash.net/en/?id=homepage">fxcash.net</a>
+===1795704089===forex_expanded
+🟢 <b>EUR/USD</b> -- Long
+📊 <code>1.0985</code> | RSI <code>28.0</code>
+📍 Entry: <code>1.0915</code> → Stop: <code>1.0860</code> → TP: <code>1.1084</code>
+⚖️ R:R = 1:3.1
+💡 <i>RSI 28 stark überverkauft direkt am 52-Wochen-Tief 1.09 - Retracement-Long an der Zonenuntergrenze mit Rückkehrziel SMA20.</i>
+⚠️ <i>Dollar-Momentum bleibt stark (Fed-Hike-Erwartungen), ein Bruch unter 1.09 öffnet den Weg zum neuen Jahrestief.</i>
+
+🔴 <b>USD/CHF</b> -- Short
+📊 <code>0.8331</code> | RSI <code>71.8</code>
+📍 Entry: <code>0.8385</code> → Stop: <code>0.8455</code> → TP: <code>0.8240</code>
+⚖️ R:R = 1:2.1
+💡 <i>RSI 71.8 überkauft am 52-Wochen-Hoch 0.84 - Short-Einstieg erst in der Korrektur nach oben an die Zonengrenze.</i>
+⚠️ <i>Starker USD-Trend (DXY nahe 52w-Hoch) kann die Widerstandszone brechen, Stop daher knapp über 0.84.</i>
+
+🔴 <b>USD/CAD</b> -- Short
+📊 <code>1.4230</code> | RSI <code>71.6</code>
+📍 Entry: <code>1.4350</code> → Stop: <code>1.4440</code> → TP: <code>1.4154</code>
+⚖️ R:R = 1:2.2
+💡 <i>RSI 71.6 überkauft unter dem 52-Wochen-Hoch 1.44 - Limit-Short an der Widerstandszone mit Ziel SMA50.</i>
+⚠️ <i>Der USD-Boom treibt das Pair weiter, ein Close über 1.44 negiert die Abwärtsidee.</i>
+
+⚠️ <i>Analyse, keine Signale. Risikomanagement beachten.</i>
+💡 <i>Cashback bei jedem Trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a></i>
