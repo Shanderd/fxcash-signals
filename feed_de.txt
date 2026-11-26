@@ -476,3 +476,22 @@ Nur <b>1 valides Setup</b>: Alle anderen Coins sind >3% von guten Retracement-Le
 
 ⚠️ <i>Analysen, keine Signale. Stop-Loss und Positionsgröße unbedingt beachten.</i>
 💡 Cashback bei jedem Trade → <a href="https://fxcash.net/en/?id=homepage">fxcash.net</a>
+===1795736429===commodities
+<b>📦 Rohstoff-Check 27.11.2026</b> - <i>Keine gültigen Signale: alle Retracement-Levels (SMA20) liegen >2% vom aktuellen Preis entfernt (Regel 12).</i>
+
+🟡 <b>Gold</b> - Beobachtung
+📊 <code>3592.90</code> | RSI <code>25.2</code> | SMA20 <code>3849.46</code> (+7,1%)
+<i>RSI überverkauft und Preis unter SMA50 → gemischtes Signal, Long-Eintrag an SMA20 wäre 7,1% entfernt und damit unzulässig.</i>
+
+🟡 <b>Brent</b> - Beobachtung
+📊 <code>91.64</code> | RSI <code>38.3</code> | SMA20 <code>95.74</code> (+4,5%)
+<i>Klare Abwärtsstruktur unter SMA20/SMA50, doch nächster Widerstand 4,5% entfernt - kein Short-Retracement innerhalb der 2%-Grenze.</i>
+
+🟡 <b>Silber</b> - Beobachtung
+📊 <code>41.70</code> | RSI <code>26.7</code> | SMA20 <code>47.51</code> (+13,9%)
+<i>Nur <code>4,1%</code> über dem 52w-Tief <code>40.05</code> bei überverkauftem RSI → Umkehrgefahr, Entry-Level SMA20 zu weit entfernt.</i>
+
+⚠️ <i>Gold und Silber zeigen RSI-Werte unter 30 - vor Erholungsbounces in Gold-Mining-Werten (Agnico Eagle, Sektor-News) und fallenden Ölpreisen (Benzin unter 4 USD laut Analyst) ist bei neuen Positionen Vorsicht geboten.</i>
+
+⚠️ Analyse, keine Signale. Risikomanagement beachten.
+💡 Cashback bei jedem Trade → <a href="https://fxcash.net/en/?id=homepage">fxcash.net</a>
