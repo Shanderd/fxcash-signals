@@ -453,3 +453,26 @@ Nur <b>1 valides Setup</b>: Alle anderen Coins sind >3% von guten Retracement-Le
 ⚠️ <i>Starke europäische Erholung (+1.61%) könnte SMA20-Breakout auslösen.</i>
 
 💡 Cashback bei jedem Trade → <i><a href="https://fxcash.net/en/?id=homepage">fxcash</a></i>
+===1795721475===crypto_expanded
+⚠️ <i>Marktbreiter Abwärtstrend: alle Top-Krypto unter SMA20 und SMA50. RSI-Überverkauf bei BTC/ETH/AVAX/DOT deutet auf Erholungschancen, aber Trend bleibt abwärts gerichtet - nur kleine Positionen.</i>
+
+🟢 <b>Bitcoin</b> -- Long
+📊 <code>60555.16</code> | RSI <code>22.6</code>
+📍 Entry: <code>59800</code> → Stop: <code>55149</code> → TP: <code>74679</code>
+⚖️ R:R = 1:3.2
+💡 <i>RSI massiv überverkauft bei Rücksetzer an die 60K-Marke, Ziel ist das SMA50 als Fernziel; Risiko: Galaxy-Warnung vor Absturz auf 28.200 USD bei Bruch des Juni-Tiefs.</i>
+
+🟢 <b>Ethereum</b> -- Long
+📊 <code>1701.90</code> | RSI <code>27.7</code>
+📍 Entry: <code>1685</code> → Stop: <code>1506.51</code> → TP: <code>2167.46</code>
+⚖️ R:R = 1:2.7
+💡 <i>Überverkaufter Kurs knapp über dem 52-Wochen-Tief 1506.51, das als Stop dient; Risiko: Bruch des 52w-Tiefs setzt den Abverkauf ungebremst fort.</i>
+
+🟢 <b>Polkadot</b> -- Long
+📊 <code>0.6754</code> | RSI <code>26.2</code>
+📍 Entry: <code>0.6650</code> → Stop: <code>0.62</code> → TP: <code>0.9397</code>
+⚖️ R:R = 1:6.1
+💡 <i>Preis nur 8 % über dem 52-Wochen-Tief bei überverkauftem RSI, Ziel ist das SMA50 als übergeordnetes Widerstandsziel; Risiko: geringe Liquidität kann Stop-Hunts unter das 52w-Tief auslösen.</i>
+
+⚠️ <i>Analysen, keine Signale. Stop-Loss und Positionsgröße unbedingt beachten.</i>
+💡 Cashback bei jedem Trade → <a href="https://fxcash.net/en/?id=homepage">fxcash.net</a>
