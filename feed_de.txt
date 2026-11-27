@@ -495,3 +495,29 @@ Nur <b>1 valides Setup</b>: Alle anderen Coins sind >3% von guten Retracement-Le
 
 ⚠️ Analyse, keine Signale. Risikomanagement beachten.
 💡 Cashback bei jedem Trade → <a href="https://fxcash.net/en/?id=homepage">fxcash.net</a>
+===1795790391===forex_expanded
+📊 <b>Marktüberblick 27.11.2026</b> -- DXY bei 19-Monats-Hoch (<code>103.94</code>), EUR/USD an 52w-Tief. Dollar-Divergenz extrem, Rücksetzer-Risiko steigt.
+
+🟢 <b>EUR/USD</b> -- Long
+📊 <code>1.0953</code> | RSI <code>29.4</code>
+📍 Entry: <code>1.0900</code> → Stop: <code>1.0850</code> → TP: <code>1.1071</code>
+⚖️ R:R = 1:3.4
+💡 <i>RSI überverkauft direkt am 52w-Tief 1.09 -- Käufer-Übernahmezone.</i>
+⚠️ <i>Gegen den Abwärtstrend unter beiden SMAs, nur mit striktem Stop.</i>
+
+🟢 <b>GBP/USD</b> -- Long
+📊 <code>1.3117</code> | RSI <code>30.6</code>
+📍 Entry: <code>1.3000</code> → Stop: <code>1.2950</code> → TP: <code>1.3257</code>
+⚖️ R:R = 1:5.1
+💡 <i>Doppelter Boden-Bereich beim 52w-Minimum 1.30 bei RSI nahe 30.</i>
+⚠️ <i>Preis unter SMA20/SMA50, Pound-News gedämpft -- Abpraller nicht garantiert.</i>
+
+🔴 <b>USD/CAD</b> -- Short
+📊 <code>1.4244</code> | RSI <code>64.4</code>
+📍 Entry: <code>1.4400</code> → Stop: <code>1.4465</code> → TP: <code>1.4159</code>
+⚖️ R:R = 1:3.7
+💡 <i>Verkaufslimit direkt am 52w-Maximum 1.44 als Widerstands-Rejection.</i>
+⚠️ <i>RSI 64.4 und Aufwärtstrend über beiden SMAs -- Momentum kann weiterlaufen.</i>
+
+⚠️ <i>Analysen, keine Signale. Position sizing &amp; Risikomanagement beachten.</i>
+💡 <i>Cashback bei jedem Trade →</i> <a href="https://fxcash.net/en/?id=homepage">fxcash.net</a>
