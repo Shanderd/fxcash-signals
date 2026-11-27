@@ -534,3 +534,24 @@ No other instruments qualify: entry levels (SMA20) on BTC, ETH, SOL, ADA, DOGE, 
 
 ⚠️ Analysis, not signals. Manage your risk.
 💡 Cashback on every trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
+===1795809149===stocks_expanded
+🔴 <b>S&amp;P 500</b> -- Short
+📊 <code>7297.49</code> | RSI <code>47.4</code>
+📍 Entry: <code>7401.97</code> → Stop: <code>7650.00</code> → TP: <code>6316.91</code>
+⚖️ R:R = 1:4.4
+💡 <i>Price is below both SMA20 and SMA50, so a rebound to the falling SMA20 offers a short entry toward the 52-week low; risk is a broad risk-on rally fuelled by the best weekly gain since 2022 pushing price through the SMA50 zone at 7595.</i>
+
+🔴 <b>Nasdaq</b> -- Short
+📊 <code>24129.50</code> | RSI <code>46.7</code>
+📍 Entry: <code>24609.76</code> → Stop: <code>26050.00</code> → TP: <code>20690.25</code>
+⚖️ R:R = 1:2.7
+💡 <i>Index stays under both SMAs with a +2.31% bounce only reaching the SMA20 zone, which acts as re-entry for shorts toward the 52-week low; risk is strong tech momentum (Tesla, AMD, Amazon leading) breaking above SMA50 at 25933.</i>
+
+🟢 <b>FTSE 100</b> -- Long
+📊 <code>10698.81</code> | RSI <code>46.5</code>
+📍 Entry: <code>10671.29</code> → Stop: <code>10570.00</code> → TP: <code>10989.50</code>
+⚖️ R:R = 1:3.1
+💡 <i>Only index above both SMA20 and SMA50 with neutral RSI, so a pullback into the SMA20/SMA50 cluster is a continuation long toward the 52-week high; risk is losing the 10665 support band, which would negate the bullish structure.</i>
+
+⚠️ <i>Analysis, not signals. Manage your risk.</i>
+💡 <i>Cashback on every trade →</i> <code><a href="https://fxcash.net/en/?id=homepage">fxcash</a></code>
