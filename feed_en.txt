@@ -498,3 +498,16 @@ Most levels sit <b>&gt;3% away</b> (BTC, ETH, SOL, ADA, DOGE, AVAX, DOT, UNI) - 
 <i>Brent skipped: SMA20 at 95.76 is ~4% away, exceeding the 2% retracement entry limit.</i>
 
 💡 Cashback on every trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
+===1795797189===crypto_expanded
+🔴 <b>TRX/USD</b> -- Short
+📊 <code>0.3008</code> | RSI <code>35.2</code>
+📍 Entry: <code>0.3090</code> → Stop: <code>0.3200</code> → TP: <code>0.2700</code>
+⚖️ R:R = 1:3.5
+💡 <i>Price capped below both SMAs, bounce into SMA20 (0.309) offers a short entry with stop above SMA50 and target at the 52w low 0.27.</i>
+
+⚠️ <b>Risk:</b> <i>RSI 35.2 leaves limited downside momentum before oversold, so a break above SMA50 0.32 invalidates the setup.</i>
+
+No other instruments qualify: entry levels (SMA20) on BTC, ETH, SOL, ADA, DOGE, LTC, BCH, UNI are more than 3% away, while 52w lows for oversold BTC/ETH/AVAX are too far below price for a valid retracement entry. LINK short fails R:R (1:1.6). Market-wide downtrend with heavy ETF outflows - reduce position size.
+
+⚠️ Analysis, not signals. Manage your risk.
+💡 Cashback on every trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
