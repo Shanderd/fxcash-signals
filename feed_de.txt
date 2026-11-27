@@ -545,3 +545,8 @@ Nur <b>1 valides Setup</b>: Alle anderen Coins sind >3% von guten Retracement-Le
 
 ⚠️ <i>Keine Anlageberatung. Positionen absichern, Risikomanagement beachten.</i>
 💡 Cashback bei jedem Trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
+===1795808275===crypto_expanded
+🔴 <b>TRX (Tron)</b> -- Short
+📊 <code>0.3008</code> | RSI <code>35.2</code>
+📍 Entry: <code>0.309</code> → Stop: <code>0.32</code> → TP: <code>0.27</code>
+⚖️ R
