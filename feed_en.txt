@@ -511,3 +511,26 @@ No other instruments qualify: entry levels (SMA20) on BTC, ETH, SOL, ADA, DOGE, 
 
 ⚠️ Analysis, not signals. Manage your risk.
 💡 Cashback on every trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
+===1795805196===forex_expanded
+🟢 <b>EUR/USD</b> -- Long
+📊 <code>1.0936</code> | RSI <code>28.4</code>
+📍 Entry: <code>1.0900</code> → Stop: <code>1.0865</code> → TP: <code>1.1070</code>
+⚖️ R:R = 1:4.9
+💡 <i>Oversold at 52-week low, waiting for a dip to 1.0900 before a rebound toward SMA20.</i>
+
+🟢 <b>GBP/USD</b> -- Long
+📊 <code>1.3093</code> | RSI <code>29.2</code>
+📍 Entry: <code>1.3000</code> → Stop: <code>1.2940</code> → TP: <code>1.3255</code>
+⚖️ R:R = 1:4.3
+💡 <i>RSI oversold at the 52-week floor, limit buy at 1.3000 targets the SMA20 pullback.</i>
+
+🔴 <b>USD/CAD</b> -- Short
+📊 <code>1.4247</code> | RSI <code>64.7</code>
+📍 Entry: <code>1.4400</code> → Stop: <code>1.4460</code> → TP: <code>1.4159</code>
+⚖️ R:R = 1:4.0
+💡 <i>Price presses the 52-week max zone, fade the strength at 1.4400 toward SMA50.</i>
+
+⚠️ Risk: all three pairs show RSI extremes, so momentum can extend before reversing; US PCE data may spike volatility.
+
+⚠️ Analysis, not signals. Manage your risk.
+💡 Cashback on every trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
