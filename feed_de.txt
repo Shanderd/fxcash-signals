@@ -521,3 +521,27 @@ Nur <b>1 valides Setup</b>: Alle anderen Coins sind >3% von guten Retracement-Le
 
 ⚠️ <i>Analysen, keine Signale. Position sizing &amp; Risikomanagement beachten.</i>
 💡 <i>Cashback bei jedem Trade →</i> <a href="https://fxcash.net/en/?id=homepage">fxcash.net</a>
+===1795799892===stocks_expanded
+🟢 <b>FTSE 100</b> -- Long
+📊 <code>10698.81</code> | RSI <code>46.5</code>
+📍 Entry: <code>10671.29</code> → Stop: <code>10620.00</code> → TP: <code>10989.50</code>
+⚖️ R:R = 1:6.2
+💡 <i>Preis über SMA20 und SMA50 - Rücksetzer an den SMA20 als Einstieg, Ziel ist das 52w-Hoch 10989.50.</i>
+⚠️ <i>Risiko: Bruch unter SMA50 (10665) hebt die Aufwärtsstruktur auf.</i>
+
+🟢 <b>Meta</b> -- Long
+📊 <code>627.64</code> | RSI <code>53.8</code>
+📍 Entry: <code>615.42</code> → Stop: <code>605.00</code> → TP: <code>671.32</code>
+⚖️ R:R = 1:5.4
+💡 <i>Preis über SMA20 mit +2.91% - Rücksetzer an den SMA20, Fernziel ist der SMA50 bei 671.32.</i>
+⚠️ <i>Risiko: Kurs weiterhin unter SMA50 - Trend erst oberhalb 671 bestätigt.</i>
+
+🔴 <b>Apple</b> -- Short
+📊 <code>357.81</code> | RSI <code>65.5</code>
+📍 Entry: <code>360.83</code> → Stop: <code>367.00</code> → TP: <code>343.46</code>
+⚖️ R:R = 1:2.8
+💡 <i>Kurs am 52w-Maximum 360.83 mit RSI 65.5 - Short-Entry auf Abpraller am Rekordhoch, Ziel SMA50.</i>
+⚠️ <i>Risiko: Ausbruch über 360.83 setzt die Aufwärtsdynamik fort.</i>
+
+⚠️ <i>Keine Anlageberatung. Positionen absichern, Risikomanagement beachten.</i>
+💡 Cashback bei jedem Trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
