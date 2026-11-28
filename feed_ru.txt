@@ -705,3 +705,23 @@ Brent: <code>88.13</code> ниже SMA20 <code>97.78</code> - вход для ш
 <i>Все входы в пределах 2% от текущей цены. Стопы ограничены, позиции - не более 1-2% от депозита.</i>
 
 💡 Кешбэк с каждой сделки → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
+===1795833579===stocks_de_digest
+📰 <b>Aktien und Indizes — Digest · 28.11.2026</b>
+
+🔑 <b>S&P 500 & Nasdaq: stärkste Woche seit über einem Jahr</b>
+Beide Indizes schlossen die beste Woche in über 12 Monaten ab, getragen von der Rückkehr des KI-Optimismus. Die Performance signalisiert deutlich gestiegene Risikobereitschaft und Kapitalzuflüsse in Technologie- und Wachstumsaktien.
+
+🔑 <b>Dow Jones: größter Wochensprung seit Oktober 2022</b>
+Der Dow legte seine stärkste Woche in über zwei Jahren hin und deutet auf einen breiten Marktaufschwung hin — nicht nur Tech-getrieben. Die Futures signalisieren zudem anhaltende Aufwärtsdynamik zu Wochenbeginn.
+
+🔑 <b>Halbleiter & KI-Werte: scharfe Erholung</b>
+Chipmaker wie <code>NVDA</code>, <code>AMD</code> und <code>AVGO</code> reboundeten kräftig und lieferten den Hauptanteil der Indexgewinne. Nvidia-Chef Jensen Huang spricht zudem am Capitol Hill — mögliche Impulse durch politische KI-Regulierung oder Förderung.
+
+🔑 <b>Tesla führt das Momentum an</b>
+<code>TSLA</code> war einer der stärksten Treiber der Rally mit sieben neuen Kaufsignalen und gilt als Sentiment-Barometer für Tech und Elektromobilität. Kurzfristig positives Momentum, die Volatilität bleibt jedoch hoch.
+
+📊 <b>Stimmung:</b> 🟢 bullisch
+Breit getragene Rally über alle großen Indizes, angeführt von KI- und Halbleiterwerten — die Kauflust der Anleger ist klar zurück.
+
+⚠️ Analyse, keine Signale. Risikomanagement beachten.
+💡 Cashback bei jedem Trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
