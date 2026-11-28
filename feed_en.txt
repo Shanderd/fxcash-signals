@@ -555,3 +555,12 @@ No other instruments qualify: entry levels (SMA20) on BTC, ETH, SOL, ADA, DOGE, 
 
 ⚠️ <i>Analysis, not signals. Manage your risk.</i>
 💡 <i>Cashback on every trade →</i> <code><a href="https://fxcash.net/en/?id=homepage">fxcash</a></code>
+===1795830570===commodities
+⚠️ Analysis, not signals. Manage your risk.
+💡 Cashback on every trade → <a href="https://fxcash.net/en/?id=homepage">fxcash</a>
+
+🔴 <b>XAUUSD</b> -- Short
+📊 <code>3668.50</code> | RSI <code>30.6</code>
+📍 Entry: <code>3740.00</code> → Stop: <code>3855.00</code> → TP: <code>3425.20</code>
+⚖️ R:R = 1:2.7
+💡 <i>Downtrend below both SMAs with gold down <code>35.4%</code> from its record as retail bullion positions bleed out, though RSI near <code>30</code> warns of an oversold bounce risk.</i>
